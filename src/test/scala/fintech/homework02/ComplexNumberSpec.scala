@@ -1,5 +1,4 @@
 package fintech.homework02
-package fintech.homework02
 import org.scalatest.{FlatSpec, Matchers}
 
 class ComplexNumberSpec extends FlatSpec with Matchers {
@@ -35,3 +34,4 @@ class ComplexNumberSpec extends FlatSpec with Matchers {
 
   }
 }
+
